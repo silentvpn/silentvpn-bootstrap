@@ -1,6 +1,4 @@
-{
-  "updated_at": "2025-12-14",
-  "servers": [
+[
     {
       "id": "official-ss-1",
       "name": "Singapore Server 1",
@@ -10,7 +8,7 @@
       "flag": "🇸🇬",
       "configType": "SHADOWSOCKS",
       "method": "2022-blake3-aes-256-gcm",
-      "password_b64": "Y09TME1tZkUraExaOE5wb0Q1bE5mVnVEQk1zM2RscGxIa3RBRTJ1ODdIaz06dWVDSXlIR1IxM21DcE12VzZ5K3BWWDJsZ3g0MndkYW53RUswekRwSFFubz0=",
+      "password": "cOS0MmfE+hLZ8NpoD5lNfVuDBMs3dlplHktAE2u87Hk=:ueCIyHGR13mCpMvW6y+pVX2lgx42wdanwEK0zDpHQno=",
       "tls": false
     },
     {
@@ -22,8 +20,19 @@
       "flag": "🇸🇬",
       "configType": "SHADOWSOCKS",
       "method": "2022-blake3-aes-256-gcm",
-      "password_b64": "N05TKzdXQnl5WnZZT1NyUkI5ekZuT2V0UExJYnFJTUViNW80a3M1bDVPcz06dCtMQjdpd1dydlpQTGFocFVidHRSM1VqZEtnVWVIc2IydTZQdWNlRWlLST0=",
+      "password": "7NS+7WByyZvYOSrRB9zFnOetPLIbqIMEb5o4ks5l5Os=:t+LB7iwWrvZPLahpUbttR3UjdKgUeHsb2u6PuceEiKI=",
+      "tls": false
+    },
+    {
+      "id": "official-ss-3",
+      "name": "Singapore Server 3",
+      "host": "sg.outlinekeys.net",
+      "port": 52252,
+      "type": "OFFICIAL",
+      "flag": "🇸🇬",
+      "configType": "SHADOWSOCKS",
+      "method": "chacha20-ietf-poly1305",
+      "password": "VwWG5sn7Jhg2fF2RQhLF4J",
       "tls": false
     }
   ]
-}
