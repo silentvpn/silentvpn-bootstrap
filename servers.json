@@ -22,17 +22,5 @@
       "method": "2022-blake3-aes-256-gcm",
       "password": "7NS+7WByyZvYOSrRB9zFnOetPLIbqIMEb5o4ks5l5Os=:t+LB7iwWrvZPLahpUbttR3UjdKgUeHsb2u6PuceEiKI=",
       "tls": false
-    },
-    {
-      "id": "official-ss-3",
-      "name": "Singapore Server 3",
-      "host": "sg.outlinekeys.net",
-      "port": 52252,
-      "type": "OFFICIAL",
-      "flag": "🇸🇬",
-      "configType": "SHADOWSOCKS",
-      "method": "chacha20-ietf-poly1305",
-      "password": "VwWG5sn7Jhg2fF2RQhLF4J",
-      "tls": false
     }
   ]
