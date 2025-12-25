@@ -38,5 +38,27 @@
         "path": "",
         "sni": "",
         "flow": ""
-    }
+    },
+    {
+  "id": "official-sg-4",
+  "name": "Singapore Server 4",
+  "host": "217.216.73.175",
+  "port": 30335,
+  "type": "OFFICIAL",
+  "flag": "🇸🇬",
+  "configType": "VLESS",
+
+  "uuid": "e0c9d512-cb94-4dff-a343-fa55949eb8f6",
+  "encryption": "none",
+
+  "network": "tcp",
+  "security": "reality",
+
+  "sni": "google.com",
+  "publicKey": "n6eCdEDoKfJGFo9TkeqpqQ4a1YbO-FpU60-fMKcMfVg",
+  "shortId": "75",
+  "fingerprint": "chrome",
+
+  "flow": ""
+}
   ]
