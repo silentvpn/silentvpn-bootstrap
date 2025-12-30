@@ -1,7 +1,40 @@
 [
-    {
+
+   {
   "id": "official-sg-1",
   "name": "Singapore Server 1",
+  "host": "217.216.73.175",
+  "port": 12685,
+  "type": "OFFICIAL",
+  "flag": "🇸🇬",
+  "configType": "SHADOWSOCKS",
+
+  "method": "2022-blake3-aes-256-gcm",
+  "password": "t+LB7iwWrvZPLahpUbtR3UjDKgUeHsb2u6PuceEiKI=",
+
+  "network": "tcp",
+  "security": "none"
+   },
+
+   {
+  "id": "official-sg-2",
+  "name": "Singapore Server 2",
+  "host": "217.216.73.175",
+  "port": 11264,
+  "type": "OFFICIAL",
+  "flag": "🇸🇬",
+  "configType": "SHADOWSOCKS",
+
+  "method": "2022-blake3-aes-256-gcm",
+  "password": "9j9H7wJpLkds6ibik9+RB3ylQt8qR2MmXwowaLHV2rA=",
+
+  "network": "tcp",
+  "security": "none"
+   },
+
+    {
+  "id": "official-sg-3",
+  "name": "Singapore Server 3",
   "host": "217.216.73.175",
   "port": 30335,
   "type": "OFFICIAL",
@@ -21,9 +54,10 @@
 
   "flow": ""
 },
+
     {
-  "id": "official-sg-2",
-  "name": "Singapore Server 2",
+  "id": "official-sg-4",
+  "name": "Singapore Server 4",
   "host": "217.216.73.175",
   "port": 51908,
   "type": "OFFICIAL",
