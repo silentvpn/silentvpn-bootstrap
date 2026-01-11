@@ -34,7 +34,7 @@
 
     {
   "id": "official-sg-3",
-  "name": "Singapore Server 3",
+  "name": "Singapore Secure Server 1",
   "host": "217.216.73.175",
   "port": 30335,
   "type": "OFFICIAL",
@@ -57,7 +57,7 @@
 
     {
   "id": "official-sg-4",
-  "name": "Singapore Server 4",
+  "name": "Singapore Secure Server 2",
   "host": "217.216.73.175",
   "port": 51908,
   "type": "OFFICIAL",
@@ -76,6 +76,39 @@
   "fingerprint": "chrome",
 
   "flow": ""
+},
+   
+   {
+  "id": "outline-jp-1",
+  "name": "Japan Server 1",
+  "host": "109.123.231.16",
+  "port": 9647,
+  "type": "OFFICIAL",
+  "flag": "🇯🇵",
+  "configType": "SHADOWSOCKS",
+
+  "method": "chacha20-ietf-poly1305",
+  "password": "wkS1lEWBDounqfzK4ZVUoA",
+
+  "network": "tcp",
+  "security": "none"
+},
+
+   {
+  "id": "outline-jp-2",
+  "name": "Japan Server 2",
+  "host": "109.123.231.16",
+  "port": 9647,
+  "type": "OFFICIAL",
+  "flag": "🇯🇵",
+  "configType": "SHADOWSOCKS",
+
+  "method": "chacha20-ietf-poly1305",
+  "password": "wkS1lEWBDounqfzK4ZVUoA",
+
+  "network": "tcp",
+  "security": "none"
 }
+
     
   ]
