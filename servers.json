@@ -1,4 +1,19 @@
 [
+   {
+  "id": "official-uk-1",
+  "name": "United Kingdom Server",
+  "host": "35.197.218.209",
+  "port": 26279,
+  "type": "OFFICIAL",
+  "flag": "🇬🇧",
+  "configType": "SHADOWSOCKS",
+
+  "method": "chacha20-ietf-poly1305",
+  "password": "MZ79O3kFdDmBfd6ORxgUoL",
+
+  "network": "tcp",
+  "security": "none"
+},
 
    {
   "id": "official-sg-1",
@@ -50,29 +65,6 @@
   "sni": "google.com",
   "publicKey": "n6eCdEDoKfJGFo9TkeqpqQ4a1YbO-FpU60-fMKcMfVg",
   "shortId": "75",
-  "fingerprint": "chrome",
-
-  "flow": ""
-},
-
-    {
-  "id": "official-sg-4",
-  "name": "Singapore Secure Server 2",
-  "host": "217.216.73.175",
-  "port": 51908,
-  "type": "OFFICIAL",
-  "flag": "🇸🇬",
-  "configType": "VLESS",
-
-  "uuid": "a78bf462-ac8f-48bd-979e-da3da998d53f",
-  "encryption": "none",
-
-  "network": "tcp",
-  "security": "reality",
-
-  "sni": "google.com",
-  "publicKey": "cAGVG6bZ5zj2CYyT0h3iQ11AMfuskS4ZM8T2KSv5s3c",
-  "shortId": "3c6d",
   "fingerprint": "chrome",
 
   "flow": ""
